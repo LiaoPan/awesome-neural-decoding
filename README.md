@@ -3,7 +3,7 @@
 
 ## Table of Contents
 * **[Papers](#papers)**
-* * **[Codes](#codes)**
+* **[Codes](#codes)**
 
 
 ### Papers
