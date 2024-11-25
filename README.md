@@ -13,5 +13,6 @@ https://github.com/flinkerlab/neural_speech_decoding
 
 https://neuralspeak.github.io/
 
+https://github.com/eeyhsong/NICE-EEG ： Decoding Natural Images
 
 
