@@ -17,4 +17,6 @@ https://github.com/eeyhsong/NICE-EEG ： Decoding Natural Images
 
 https://github.com/diwu121/sEEG2Chinese
 
+https://github.com/duanyiqun/DeWave
+
 
